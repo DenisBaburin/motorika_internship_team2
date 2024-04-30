@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 cometml.txt
+mnist_arduino_example.ipynb
 
 # C extensions
 *.so
